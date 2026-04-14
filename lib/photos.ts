@@ -43,7 +43,7 @@ export const PHOTO_LIBRARY: PhotoLibrary = {
       title: 'MATA', 
       category: 'Lead Full-Stack Engineer', 
       image: mata.src,
-      tags: ['TensorFlow', 'OpenCV', 'React', 'FastAPI', 'Python'],
+      tags: ['TensorFlow', 'OpenCV', 'React', 'FastAPI', 'Python', 'Firebase'],
       year: '2026',
       description: 'Automated Road Hazard Severity Assessment using deep learning. Integrates real-time CV pipelines with a user-friendly reporting dashboard.'
     },
